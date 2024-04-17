@@ -1,5 +1,3 @@
-; Bed leveling Ender 3 by ingenioso3D
-; Modified by elproducts CHEP FilamentFriday.com
 
 G90
 

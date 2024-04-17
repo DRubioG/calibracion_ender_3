@@ -1,4 +1,4 @@
-;FLAVOR:Marlin
+;FLAVOR:
 ;TIME:1619
 ;Filament used: 0.97954m
 ;Layer height: 0.2
